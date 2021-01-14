@@ -12,6 +12,3 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus rem lau
 
 - Paso 3
 - Paso 4
-
-dfafsfasfg
-adffffffff
